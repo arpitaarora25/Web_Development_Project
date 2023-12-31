@@ -1,0 +1,43 @@
+h1{
+    color: black;
+}
+
+.box1{
+    height: 800px;
+    width: 950px;
+    margin-left: 150px;
+    display: flex;
+    flex-direction: row;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+}
+.personal{
+    display: flex;
+    flex-direction: column;
+    margin-left: 60px;
+}
+.billing{
+    margin-left : 140px;
+}
+.sep1{
+    height: 60px;
+    background-color: rgb(2, 29, 37);
+}
+input{
+    background-color: rgb(8, 15, 36);
+    color: white;
+    height: 50px;
+    width: 350px;
+    text-align: center;
+    border-radius: 40px;
+    font-size: 1.4rem;
+}
+.headbox{
+    display: flex;
+    flex-direction: row;
+}
+.container-fluid{
+    background-color: rgb(220, 216, 216);
+}

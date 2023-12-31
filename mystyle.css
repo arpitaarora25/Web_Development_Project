@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@200&display=swap');
+.box1{
+    background-color: black;
+    height: 250px;
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+.container-fluid{
+    background-color: rgb(44, 54, 44);
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    margin-left: 80px;
+    font-size: 2rem;
+    font-weight: bolder;
+    margin-right: 200px;
+}
+table{
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+th{
+    font-size: 1.7rem;
+    font-weight: lighter;
+}
+.nav-item{
+    margin: 0 20px;
+    text-decoration:underline ;
+}.desc{
+    background-color: rgb(221, 214, 214);
+    text-align: center;
+    padding: 40px;
+}
+.two{
+    display: flex;
+    justify-content:center;
+}
+.c1{
+    height:300px;
+    width: 800px;
+    display: flex;
+    justify-content:center;
+    margin-left: 300px;
+    flex-direction: row;
+    margin-bottom: 180px;
+    margin-top: 5px;
+}
+.desc2{
+     background-color: white;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+}
+.three{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.reviews{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.iconContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.contact
+{
+    display: flex;
+    flex-direction: column;
+    align-items:start;
+    margin-left: 180px;
+}
+.links{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    margin-right: 180px;
+    justify-content: end;
+}
+.newww{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.sepp{
+    height: 25px;
+    width: 100vw;
+    background-image: linear-gradient(to right, black, yellow);
+}
